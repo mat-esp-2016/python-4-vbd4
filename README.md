@@ -15,7 +15,7 @@ Ministrado por [Leonardo Uieda](http://www.leouieda.com/).
 ## Preparação
 
 Nessa prática vamos utilizar o [Jupyter notebook](http://jupyter.org/)
-para programar em Python. Vocês não precisarão utilizar editores de texto
+para programar em Python. Você não precisarão utilizar editores de texto
 (como Notepad++) e arquivos `.py`.
 
 **Primeiro**, verifique que o Jupyter está instalado junto com
@@ -23,7 +23,7 @@ seu Anaconda. Para isso, rode o comando abaixo no bash:
 
     $ conda install jupyter
 
-**Segundo**, clique no link abaixo para criar um repositório para seu grupo.
+**Segundo**, utilize o link enviado por e-mail para criar um repositório para seu grupo.
 Você precisará logar em sua conta do Github.
 O repositório não ficará mais em sua conta, e sim na conta compartilhada do
 LAGEX [github.com/lagex](https://github.com/lagex/).
@@ -32,7 +32,7 @@ sem espaço ou caracter especial).
 Pode colocar o que quiser (recomendo ser conservador para não se
 atrapalhar depois).
 
-**Terceiro**, os outros membros do grupo devem clicar no link acima também.
+**Terceiro**, os outros membros do grupo devem clicar no link também.
 Cada um deve logar com sua própria conta do Github. Coloquem o nome do grupo
 que foi criado pelo colega. Isso dará acesso *push* ao repositório para todos
 vocês.
@@ -100,6 +100,16 @@ Por isso, faça commits de suas mudanças ao notebook.
 * **Descreva o que (e por que) você fez** em comentários e células de texto.
   Isso será muito útil quando você voltar a essa tarefa depois.
 * Preste atenção aos **detalhes**. Leia as instruções com atenção.
+
+## Leitura recomendada
+
+O material da lição "Programming with Python" versão 4 do
+[Software Carpentry](http://software-carpentry.org/).
+Particularmente:
+
+* Lists
+* Input and Output
+* Strings
 
 ## Entrega
 
