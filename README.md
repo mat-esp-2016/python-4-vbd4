@@ -8,24 +8,48 @@ Ministrado por [Leonardo Uieda](http://www.leouieda.com/).
 
 ## Objetivos
 
+* Apresentar o Jupyter notebook
+* Praticar os conceitos de programação com Python aprendidos nas aulas anteriores
+* Aprender a carregar dados de arquivos
 
 ## Preparação
 
-Instalar o Jupyter e verificar que funciona.
+Nessa prática vamos utilizar o [Jupyter notebook](http://jupyter.org/)
+para programar em Python. Você não precisarão utilizar editores de texto 
+(como Notepad++) e arquivos `.py`.
 
+**Primeiro**, verifique que o Jupyter está instalado junto com
+seu Anaconda. Para isso, rode o comando abaixo no bash:
 
-Clique no link para criar um repositório para seu grupo.
+    $ conda install jupyter
+    
+**Segundo**, clique no link abaixo para criar um repositório para seu grupo.
+Você precisará logar em sua conta do Github. 
+O repositório não ficará mais em sua conta, e sim na conta compartilhada do 
+LAGEX [github.com/lagex](https://github.com/lagex/). 
+Você também precisará escolher um nome para o seu grupo (minísculo, 
+sem espaço ou caracter especial).
+Pode colocar o que quiser (recomendo ser conservador para não se 
+atrapalhar depois).
 
-Dê um nome para o grupo (minísculo, sem espaço ou
-caracter especial).
+**Terceiro**, os outros membros do grupo devem clicar no link acima também.
+Cada um deve logar com sua própria conta do Github. Coloquem o nome do grupo
+que foi criado pelo colega. Isso dará acesso *push* ao repositório para todos
+vocês.
 
-Os outros membros devem clicar no link também, logar com suas contas e se
-juntar ao **mesmo grupo**.
+**Quarto**, peguem clones do respotório criado acima para cada membro do grupo.
 
-Pegue clones do repositório para cada aluno.
+**ATENÇÂO**: Todas as práticas serão feitas em repositórios e manejadas pelo git.
+Prestem atenção se estão fazendo **commits e push com frequência**. 
+Isso pode evitar muita dor de cabeça no futuro.
+Também é importante lembrar de **trocar de clones** quando trocar o membro
+que está trabalhando. Caso contrário, os commits não sairão no seu nome.
+Quando trocar o membro **deixe o outro amigo digitar**.
+Não deixe que uma única pessoa faça commits por todos. 
+Professor não é tão cego quanto vocês pensam.
 
-Coloque um arquivo no repositório chamado `alunos.txt` com o primeiro nome de
-cada aluno do grupo.
+**Quinto**, coloque um arquivo no repositório chamado `alunos.txt` com o 
+**nome completo** de cada aluno do grupo.
 
 ## Jupyter notebooks
 
