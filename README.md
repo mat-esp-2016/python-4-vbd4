@@ -1,4 +1,4 @@
-# Prática de Introdução ao Python II
+# Python 4: extraindo informação de arquivos de texto
 
 Parte do curso
 [Matemática Especial I](http://www.leouieda.com/matematica-especial/)
@@ -8,9 +8,8 @@ Ministrado por [Leonardo Uieda](http://www.leouieda.com/).
 
 ## Objetivos
 
-* Praticar os conceitos de programação com Python aprendidos nas aulas anteriores
 * Aprender a explorar e filtrar dados de arquivos de texto
-* Manipulação de variáveis do tipo string
+* Manipular variáveis do tipo string
 * Utilizar operadores condicionais
 
 ## Leitura recomendada
